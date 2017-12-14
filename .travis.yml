@@ -1,0 +1,23 @@
+language: java  
+
+jdk:
+- oraclejdk8
+
+services:
+- docker
+
+sudo: required
+
+before_install:
+- docker build -t practicaomdb .
+- docker images
+
+script:
+- mvn clean test
+
+after_success:
+- if [ "$TRAVIS_BRANCH" == "master" ]; then
+  docker login -u "evaurjc2017" -p "qwertyuiop";
+  docker tag practicaomdb evaurjc2017/videoclubel:practicaomdb;
+  docker push evaurjc2017/videoclubel;
+  fi
