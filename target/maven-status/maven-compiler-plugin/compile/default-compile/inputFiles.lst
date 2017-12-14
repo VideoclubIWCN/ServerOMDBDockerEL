@@ -1,0 +1,9 @@
+/root/Programas/eclipse/WSEclipse/practica/PracticaServerOMDBMySql/src/main/java/com/iwcn/master/services/interfaces/DataOMDB.java
+/root/Programas/eclipse/WSEclipse/practica/PracticaServerOMDBMySql/src/main/java/com/iwcn/master/services/interfaces/IPeliculaFeignOMDB.java
+/root/Programas/eclipse/WSEclipse/practica/PracticaServerOMDBMySql/src/main/java/com/iwcn/master/model/BusquedaPelicula.java
+/root/Programas/eclipse/WSEclipse/practica/PracticaServerOMDBMySql/src/main/java/com/iwcn/master/PracticaServerOMDBMySql.java
+/root/Programas/eclipse/WSEclipse/practica/PracticaServerOMDBMySql/src/main/java/com/iwcn/master/services/DatabaseServicesOMDB.java
+/root/Programas/eclipse/WSEclipse/practica/PracticaServerOMDBMySql/src/main/java/com/iwcn/master/model/PeliculaConcreta.java
+/root/Programas/eclipse/WSEclipse/practica/PracticaServerOMDBMySql/src/main/java/com/iwcn/master/model/Pelicula.java
+/root/Programas/eclipse/WSEclipse/practica/PracticaServerOMDBMySql/src/main/java/com/iwcn/master/repositories/PeliculaConcretaRepositoryOMDB.java
+/root/Programas/eclipse/WSEclipse/practica/PracticaServerOMDBMySql/src/main/java/com/iwcn/master/controllers/AppRestControllerOMDB.java

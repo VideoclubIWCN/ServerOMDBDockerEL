@@ -1,0 +1,5 @@
+com/iwcn/master/services/AppRestControllerOMDBTest.class
+com/iwcn/master/model/PeliculaConcretaTest.class
+com/iwcn/master/model/PeliculaTest.class
+com/iwcn/master/services/FeignDataServiceTest.class
+com/iwcn/master/model/BusquedaPeliculaTest.class

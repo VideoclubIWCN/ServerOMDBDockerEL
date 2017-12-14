@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.iwcn.master.services.FeignDataServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.469 sec - in com.iwcn.master.services.FeignDataServiceTest
